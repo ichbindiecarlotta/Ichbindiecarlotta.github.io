@@ -1,4 +1,4 @@
-# Carlotta Hasselberger 🌸
+# Carlotta Hasselberger 
 
 Este es mi repositorio personal para la práctica de **Cloud Computing**.  
 El sitio está desplegado con **GitHub Pages** a partir de este repositorio.
